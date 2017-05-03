@@ -1,6 +1,9 @@
-<img src="http://res.cloudinary.com/ethankhoa/image/upload/v1491881521/pitch_cover_opedzz.png">
+##Brief
+This project was created to give solution of the internal hackathon event that was conducted at Coders Factory with the theme of education. Out solution was to create a training-wheel platform for open-source collaboration. Although we only had 72 hours to build – our team managed to deliver fully functional platform with both functional backend APIs, frontend styling and user dashboard.
+
 
 ### For self educators, how do you know what you don't know?
+<img src="http://res.cloudinary.com/ethankhoa/image/upload/v1491881521/pitch_cover_opedzz.png">
 
 ## Problem
 
@@ -20,11 +23,11 @@
 ### Wireframes
 <img src="http://res.cloudinary.com/ethankhoa/image/upload/v1491882040/pitch_wireframe_dp1sn6.png">
 
-### Site Heirarchy
+### Site Hierarchy
 <img src="http://res.cloudinary.com/ethankhoa/image/upload/v1491882139/pitch_heirarchy_trvks1.png">
 
 ### Contributors
 * <a href="http://www.github.com/ethankhoa">Ethan Huynh</a>
-* <a href="https://github.com/suryast">Surya Setiyaputra</a>
+* <a href="https://www.github.com/suryast">Surya Setiyaputra</a>
 * <a href="http://www.github.com/firmanc">Firman Cahyandi</a>
 * <a href="http://www.github.com/samturner3">Sam Turner</a>
