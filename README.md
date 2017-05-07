@@ -3,7 +3,7 @@ This project was created to give solution of the internal hackathon event that w
 
 My role in this project was to design wireframes, create all working pages and produce other UI and frontend aspects for the site after all the backend APIs had been created. I also tested the backend APIs for any functional bugs and created pitch deck for the project.
 
-The projects is hosted here https://gitgotit.herokuapp.com/.
+The project can be found here https://gitgotit.herokuapp.com/. Please sign up using fake email to check out full features of this project.
 
 
 ### For self educators, how do you know what you don't know?
@@ -18,10 +18,10 @@ The projects is hosted here https://gitgotit.herokuapp.com/.
 ## Solution
 <img src="http://res.cloudinary.com/ethankhoa/image/upload/v1491881841/pitch_solution_xt4x4b.png">
 
-## Planning 
+## Planning
 <img src="http://res.cloudinary.com/ethankhoa/image/upload/v1491881930/Office_Lens_20170406-120357_qdcuy9.jpg">
 
-### Models 
+### Models
 <img src="http://res.cloudinary.com/ethankhoa/image/upload/v1491882034/pitch_model_dgv5dg.png">
 
 ### Wireframes
