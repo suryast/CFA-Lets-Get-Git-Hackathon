@@ -1,6 +1,8 @@
 ## Project Brief
 This project was created to give solution of the internal hackathon event that was conducted at Coders Factory – theme for the hackathon was education. Out solution was to create a training-wheel platform for open-source collaboration. Although we only had 72 hours to build – our team managed to deliver fully functional platform with both functional backend APIs, frontend styling and user dashboard.
 
+My role in this project is to design and curate the front-end development after all the backend APIs had been created.
+
 
 ### For self educators, how do you know what you don't know?
 <img src="http://res.cloudinary.com/ethankhoa/image/upload/v1491881521/pitch_cover_opedzz.png">
